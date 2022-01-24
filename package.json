@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "buffer": "^6.0.3",
+    "util": "^0.12.4",
+    "walletlink": "^2.4.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  },
+  "browser": {
+    "buffer": false
+  }
+}
